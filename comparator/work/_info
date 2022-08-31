@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\14.0
+vcom
+Z1 I[3O;3MdgX?AcXGTci=KTI1
+Z2 V35CV8aIZ<VidCJa>IbzY=3
+Z3 dE:\comparator
+Z4 w1661885525
+Z5 8E:/comparator/4bitcomparator.v
+Z6 FE:/comparator/4bitcomparator.v
+L0 1
+Z7 OV;L;10.1e;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|E:/comparator/4bitcomparator.v|
+Z9 o-work work -O0
+Z10 !s100 GCSkoLYjL6nHjH81]2J:D2
+Z11 !s108 1661885603.436000
+Z12 !s107 E:/comparator/4bitcomparator.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcomp
+Z13 !s100 ETG9b2?]=[QKm9Mzk9Xb@1
+Z14 IHJ0A6J]n4FZ]M`63OzNJD2
+Z15 VZIP]3?IRn<TEV?B]mff900
+R3
+Z16 w1661885713
+R5
+R6
+L0 1
+R7
+r1
+31
+R8
+R9
+!i10b 1
+!s85 0
+Z17 !s108 1661925906.303000
+R12
+!s101 -O0
+vcompare
+Z18 !s100 D1J>X4M1HSLWAgK^Y30Z00
+Z19 Ico:<Q2JU3;j]7XH9U_JUo1
+Z20 VPDRAQEeG9E;3IZI[Sn`lB0
+R3
+Z21 w1661884797
+R5
+R6
+L0 1
+R7
+r1
+31
+R8
+R9
+Z22 !s108 1661885482.163000
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vtb
+!i10b 1
+!s100 efhzX2nzfS49eGHg`[a7W3
+I:6Wnbm1g6:CH3NIZF3h`l3
+VV@Xn<HnSRM[I5c1?BH]3a3
+R3
+w1661925904
+8E:/comparator/testbench.v
+FE:/comparator/testbench.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1661925906.387000
+!s107 E:/comparator/testbench.v|
+!s90 -reportprogress|300|-work|work|E:/comparator/testbench.v|
+!s101 -O0
+R9
