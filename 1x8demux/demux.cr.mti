@@ -1,0 +1,22 @@
+E:/1x8demux/demuxtestbench.v {1 {vlog -work work E:/1x8demux/demuxtestbench.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} E:/1x8demux/1X8demuxgatelvl.v {1 {vlog -work work E:/1x8demux/1X8demuxgatelvl.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module dem
+
+Top level modules:
+	dem
+
+} {} {}} E:/1x8demux/1X8deemuxassign.v {1 {vlog -work work E:/1x8demux/1X8deemuxassign.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module demux
+
+Top level modules:
+	demux
+
+} {} {}}
