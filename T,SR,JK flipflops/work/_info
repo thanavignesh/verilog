@@ -1,0 +1,138 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\14.0
+vjk
+Z1 !s100 zRhdiKM3nTCY_oIQigLDl0
+Z2 IXdJ_G8Yc__Hzj7YW6]ROn1
+Z3 VI5Zg7@H;0e>4[n[<;fi9G2
+Z4 dE:\T flipflop
+Z5 w1661944260
+Z6 8E:/T flipflop/jk flipflop.v
+Z7 FE:/T flipflop/jk flipflop.v
+L0 2
+Z8 OV;L;10.1e;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|E:/T flipflop/jk flipflop.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1661944474.037000
+Z12 !s107 E:/T flipflop/jk flipflop.v|
+!s101 -O0
+vjktb
+!i10b 1
+!s100 e5NMam[IfddSHanPK7_DD1
+IAR39M=Yid3;klV62F8ea23
+Z13 Vz?SNV<dK_8A1ZMiNJMf6N1
+R4
+w1661944441
+Z14 8E:/T flipflop/jk flipfloptestbench.v
+Z15 FE:/T flipflop/jk flipfloptestbench.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1661944474.117000
+!s107 E:/T flipflop/jk flipfloptestbench.v|
+Z16 !s90 -reportprogress|300|-work|work|E:/T flipflop/jk flipfloptestbench.v|
+!s101 -O0
+R10
+vsr
+Z17 !s100 0CC=LRXgg20`X6AkVO9=?0
+Z18 IWIL2Y=bA5U_Mi1TSWVzHI0
+Z19 VS6J^[QWTdhQ>NgP^CSE7B1
+R4
+Z20 w1661942920
+Z21 8E:/T flipflop/sr flipflop.v
+Z22 FE:/T flipflop/sr flipflop.v
+L0 2
+R8
+r1
+31
+Z23 !s90 -reportprogress|300|-work|work|E:/T flipflop/sr flipflop.v|
+R10
+Z24 !s108 1661944473.880000
+Z25 !s107 E:/T flipflop/sr flipflop.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsrff
+Z26 IzeUQ838]_z6i6Dg?bkOB]2
+Z27 Vc572b4a3m1jM`o55iLRCo1
+R4
+Z28 w1661942905
+R21
+R22
+L0 2
+R8
+r1
+31
+R23
+R10
+Z29 !s100 M2i00BQ@7XUGZX7]h^BoR2
+Z30 !s108 1661942909.379000
+R25
+!i10b 1
+!s85 0
+!s101 -O0
+vsrtb
+Z31 !s100 100FjY2QR5JI8UM>^kZ?S2
+Z32 ImclJHgYk@6ePY7N8ZQPmi1
+Z33 V<mnem=o`UA[e]mWch?^JJ1
+R4
+Z34 w1661944283
+Z35 8E:/T flipflop/sr flipfloptestbench.v
+Z36 FE:/T flipflop/sr flipfloptestbench.v
+L0 2
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|E:/T flipflop/sr flipfloptestbench.v|
+R10
+Z38 !s108 1661944473.958000
+Z39 !s107 E:/T flipflop/sr flipfloptestbench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtff
+Z40 !s100 XG<K;LLiXKg<l?iOE_TMH0
+Z41 IU[:n[<mG34B_QCDj1m_>01
+Z42 V8N7Az5eB4?J52N8hoT0HJ0
+R4
+Z43 w1661941753
+Z44 8E:/T flipflop/T flipflop.v
+Z45 FE:/T flipflop/T flipflop.v
+L0 2
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|E:/T flipflop/T flipflop.v|
+R10
+Z47 !s108 1661944473.730000
+Z48 !s107 E:/T flipflop/T flipflop.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtff_tb
+Z49 !s100 _JU8L3aM=lzTGo>`W^g:Z3
+Z50 I6M@iPngc>AfaCffznebc>3
+Z51 V9=WMXZZ7:NfY>We_SWZC;1
+R4
+Z52 w1661941746
+Z53 8E:/T flipflop/T flipflop testbench.v
+Z54 FE:/T flipflop/T flipflop testbench.v
+L0 2
+R8
+r1
+31
+Z55 !s90 -reportprogress|300|-work|work|E:/T flipflop/T flipflop testbench.v|
+R10
+Z56 !s108 1661944473.803000
+Z57 !s107 E:/T flipflop/T flipflop testbench.v|
+!i10b 1
+!s85 0
+!s101 -O0

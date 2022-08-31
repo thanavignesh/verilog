@@ -1,0 +1,20 @@
+//jk flip testbench
+module jktb;
+  reg j,k,clk,res;
+  wire q,qbar;
+jk t1(.j(j),.k(k),.clk(clk),.rst(res),.qbar(qbar),.q(q));
+  initial
+  begin
+    clk=0;
+    res=1;
+    k=0;j=0;
+    #5 res=0;
+    #80 res=1;
+    $monitor($time,"\tj=%b\t,k=%b\t,\tq=%d\t.qbar=%b\t",j,k,q,qbar);
+    #100 $finish;
+  end
+  always #10j=$random%2;
+  always #10k=$random%2;
+  always #5clk=~clk;
+endmodule
+    
