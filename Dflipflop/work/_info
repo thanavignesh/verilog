@@ -1,0 +1,119 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\14.0
+vasyncdff
+!i10b 1
+!s100 dzH^GSf_OPUn6C2V<O=nF3
+IiQU6TbROOa48E8X^=9bAB1
+V9O]XQCRNETGSOY>he:3:^0
+Z1 dE:\Dflipflop
+w1661940570
+8E:/Dflipflop/dffasync.v
+FE:/Dflipflop/dffasync.v
+L0 2
+Z2 OV;L;10.1e;51
+r1
+!s85 0
+31
+!s108 1661940570.133000
+!s107 E:/Dflipflop/dffasync.v|
+!s90 -reportprogress|300|-work|work|E:/Dflipflop/dffasync.v|
+!s101 -O0
+Z3 o-work work -O0
+vasynctb
+Z4 Ia]FC]Z7aXITU[B@I?gNE_1
+Z5 VST63nfeXIDKAh^IL^[R1:0
+R1
+Z6 w1661940557
+Z7 8E:/Dflipflop/asynctestbench.v
+Z8 FE:/Dflipflop/asynctestbench.v
+L0 2
+R2
+r1
+31
+R3
+!i10b 1
+Z9 !s100 _f^lk3P?oGdk@d]WWhj3]0
+!s85 0
+Z10 !s108 1661940562.745000
+Z11 !s107 E:/Dflipflop/asynctestbench.v|
+Z12 !s90 -reportprogress|300|-work|work|E:/Dflipflop/asynctestbench.v|
+!s101 -O0
+vdff
+Z13 IFi2AY3ROn7I_^Vl_^o7T13
+Z14 V;5WloU9VgV6l0:MNVLBHV3
+R1
+Z15 w1661936936
+Z16 8E:/Dflipflop/dflipflop.v
+Z17 FE:/Dflipflop/dflipflop.v
+L0 2
+R2
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|E:/Dflipflop/dflipflop.v|
+R3
+Z19 !s100 ^W7BbD5h:><dU4m2S6[6V3
+Z20 !s108 1661936964.862000
+Z21 !s107 E:/Dflipflop/dflipflop.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdffsync
+Z22 IiV`>]W[_ML4GVL<L1Rmic3
+Z23 VzR@kQddN;mjlXM`z@Nk<L1
+R1
+Z24 w1661939046
+Z25 8E:/Dflipflop/dffsyn.v
+Z26 FE:/Dflipflop/dffsyn.v
+L0 2
+R2
+r1
+31
+R3
+Z27 !s100 O`TV6<4YlL`BMJbA5B0Wm3
+Z28 !s108 1661939050.956000
+Z29 !s107 E:/Dflipflop/dffsyn.v|
+Z30 !s90 -reportprogress|300|-work|work|E:/Dflipflop/dffsyn.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsyntb
+Z31 Ie1RK20M5D4D5bNI[MC5hA1
+Z32 V[45n1hkk>i@111Xl1=9N:3
+R1
+Z33 w1661939681
+Z34 8E:/Dflipflop/syntestbench.v
+Z35 FE:/Dflipflop/syntestbench.v
+L0 2
+R2
+r1
+31
+R3
+Z36 !s100 6V=CAF`G[e=N_zC:becoH2
+Z37 !s108 1661939685.119000
+Z38 !s107 E:/Dflipflop/syntestbench.v|
+Z39 !s90 -reportprogress|300|-work|work|E:/Dflipflop/syntestbench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb
+Z40 Ichl2jabkXfl4=]hoPLPhJ0
+Z41 VV@Xn<HnSRM[I5c1?BH]3a3
+R1
+Z42 w1661937185
+Z43 8E:/Dflipflop/testbench.v
+Z44 FE:/Dflipflop/testbench.v
+L0 2
+R2
+r1
+31
+R3
+Z45 !s100 RI64bPSLUBkIKTNKVDzNb2
+Z46 !s108 1661937185.880000
+Z47 !s107 E:/Dflipflop/testbench.v|
+Z48 !s90 -reportprogress|300|-work|work|E:/Dflipflop/testbench.v|
+!i10b 1
+!s85 0
+!s101 -O0

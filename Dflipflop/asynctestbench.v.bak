@@ -1,0 +1,8 @@
+//aynchronous dflipflop testbench
+module asynctb;
+  reg d,clk,res;
+  wire q;
+asyncdff th(.q(q),.d(d),.clk(clk),.res(res));
+initial
+begin
+  clk=0;res=1;d=0;
