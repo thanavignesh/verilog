@@ -1,0 +1,20 @@
+
+module bcdtb;
+  reg clk,res,en;
+  wire [3:0]out;
+bcd t1(.clk(clk),.res(res),.en(en),.out(out));
+initial 
+begin
+  clk=0;
+  res=1;
+  en=0;
+  #5 en=1;
+  #5 res=0;
+  #1000 $finish;
+end
+always #5 clk=!clk;
+initial
+begin
+$monitor($time,"clk=%b\t,en=%b\t,res=%b\t,out=%b\t",clk,en,res,out);
+end
+endmodule

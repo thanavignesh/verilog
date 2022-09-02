@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\14.0
+vbcd
+Z1 !s100 Id0Mm<bCgFBIfZd7fKloR1
+Z2 Iz>]hhK^CU^b^8gT<CPj;22
+Z3 VnRY?0W>AfAaEXKF<0JhbY3
+Z4 dE:\vlsi progroms\4 bit Binary & BCD counter
+Z5 w1662046590
+Z6 8E:/vlsi progroms/4 bit Binary & BCD counter/BCD counter.v
+Z7 FE:/vlsi progroms/4 bit Binary & BCD counter/BCD counter.v
+L0 1
+Z8 OV;L;10.1e;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|E:/vlsi progroms/4 bit Binary & BCD counter/BCD counter.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1662048267.782000
+Z12 !s107 E:/vlsi progroms/4 bit Binary & BCD counter/BCD counter.v|
+!s101 -O0
+vbcdtb
+!i10b 1
+!s100 iNhXTCd_9Wh:_[;0dbo4_2
+IJbIUj5;];Ydm]E9_WWkMQ3
+Z13 VBhH?oZZRl=eJH9K9;ZZ6k1
+R4
+w1662048269
+Z14 8E:/vlsi progroms/4 bit Binary & BCD counter/BCD counter testbench.v
+Z15 FE:/vlsi progroms/4 bit Binary & BCD counter/BCD counter testbench.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1662048269.269000
+!s107 E:/vlsi progroms/4 bit Binary & BCD counter/BCD counter testbench.v|
+Z16 !s90 -reportprogress|300|-work|work|E:/vlsi progroms/4 bit Binary & BCD counter/BCD counter testbench.v|
+!s101 -O0
+R10
+vbinary
+Z17 !s100 0nJcNhI0^F2a>8Wc@Pdg:2
+Z18 IL]HIkgilIloOheniXhf732
+Z19 VY^ZFGV0l`odnbPRlY>Jmi2
+R4
+Z20 w1662046244
+Z21 8E:/vlsi progroms/4 bit Binary & BCD counter/binary counter.v
+Z22 FE:/vlsi progroms/4 bit Binary & BCD counter/binary counter.v
+L0 1
+R8
+r1
+31
+Z23 !s90 -reportprogress|300|-work|work|E:/vlsi progroms/4 bit Binary & BCD counter/binary counter.v|
+R10
+Z24 !s108 1662048267.633000
+Z25 !s107 E:/vlsi progroms/4 bit Binary & BCD counter/binary counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vbinarytb
+Z26 !s100 ZWRKW_<7[U:IW^:D`@5:S1
+Z27 I=QKn3mQ;d5`hGYOz;hbJR3
+Z28 VQV_1zjkAgTTXjj3ifKBjT3
+R4
+Z29 w1662046320
+Z30 8E:/vlsi progroms/4 bit Binary & BCD counter/binary counter testbench.v
+Z31 FE:/vlsi progroms/4 bit Binary & BCD counter/binary counter testbench.v
+L0 1
+R8
+r1
+31
+Z32 !s90 -reportprogress|300|-work|work|E:/vlsi progroms/4 bit Binary & BCD counter/binary counter testbench.v|
+R10
+Z33 !s108 1662048267.711000
+Z34 !s107 E:/vlsi progroms/4 bit Binary & BCD counter/binary counter testbench.v|
+!i10b 1
+!s85 0
+!s101 -O0

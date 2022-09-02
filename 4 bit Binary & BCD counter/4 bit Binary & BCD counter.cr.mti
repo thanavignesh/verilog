@@ -1,0 +1,29 @@
+{E:/vlsi progroms/4 bit Binary & BCD counter/BCD counter.v} {1 {vlog -work work {E:/vlsi progroms/4 bit Binary & BCD counter/BCD counter.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module bcd
+
+Top level modules:
+	bcd
+
+} {} {}} {E:/vlsi progroms/4 bit Binary & BCD counter/BCD counter testbench.v} {1 {vlog -work work {E:/vlsi progroms/4 bit Binary & BCD counter/BCD counter testbench.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module bcdtb
+
+Top level modules:
+	bcdtb
+
+} {} {}} {E:/vlsi progroms/4 bit Binary & BCD counter/binary counter testbench.v} {1 {vlog -work work {E:/vlsi progroms/4 bit Binary & BCD counter/binary counter testbench.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module binarytb
+
+Top level modules:
+	binarytb
+
+} {} {}} {E:/vlsi progroms/4 bit Binary & BCD counter/binary counter.v} {1 {vlog -work work {E:/vlsi progroms/4 bit Binary & BCD counter/binary counter.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module binary
+
+Top level modules:
+	binary
+
+} {} {}}
