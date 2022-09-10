@@ -1,2 +1,0 @@
-//fa in behaviour modelling
-module fabehav(input a,b,c,output s,cout);
